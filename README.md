@@ -10,7 +10,7 @@ Leitura de Entrada: O programa usa scanf para ler um número inteiro que represe
 Exibição de Mensagem: O programa usa printf para mostrar o número registrado e uma mensagem de confirmação.
 
 
-Aplicativo de Gestão Financeira Pessoal
+2)Aplicativo de Gestão Financeira Pessoal
 Este programa permite que o usuário insira uma receita e uma despesa, e calcula o saldo atualizado.
 
 Explicação:
